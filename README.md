@@ -38,6 +38,6 @@ This repository contains Excel practice exercise focused on essential formulas a
 
   ## Conclusion
   Excel formulas and functions help simplify calculations, analyze data , and improve accuracy .
-- 
+  
 
 
